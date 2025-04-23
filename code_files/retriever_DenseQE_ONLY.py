@@ -129,7 +129,7 @@ def count_words(text):
 
 def main():
   
-	login(token="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")
+	login(token="*******************")
 
 	df = pd.read_parquet("hf://datasets/PatronusAI/HaluBench/data/test-00000-of-00001.parquet")
 	# df= df.iloc[0:5, :]
