@@ -48,7 +48,7 @@ class LlamaQAPipeline:
             torch_dtype=torch.float16,
             device_map="auto"
         )
-
+    # Standard Prompting for the LLM output generation
     def generate_prompt(self, context: str, question: str) -> str:
         prompt = f"""[INST] You are a precise and helpful assistant. When responding:
             - Provide a single, clear answer without repetition
