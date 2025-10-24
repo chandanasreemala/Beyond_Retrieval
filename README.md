@@ -1,3 +1,3 @@
-# Beyond_Retrieval: Combating Faithful Hallucinations with Hybrid Retrieval Strategies and Chain of Thought Prompting
+# Beyond_Retrieval: Disentangling Faithfulness Hallucination in Retrieval Augmented Generation: A Systematic Benchmark and Analysis
 
-The folders contain only sample code files; following acceptance, we will share all code files with the community.
+The folders contain only code files
